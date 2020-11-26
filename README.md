@@ -1,0 +1,1 @@
+Tester si un mot est un palindrome.
